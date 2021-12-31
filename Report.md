@@ -58,7 +58,7 @@ Additionally, some of the parameters of interest used in this algorithm are item
 
 ![Image Of Model Scoring](images/scores.png)
 
-The image above plots the scores of the the algorithm using the different neural network node sizes. The the shaded background consists of the individual scores for the agent using the different networks and the thicker solid line is the average. The plot seems to suggest that smaller node sizes perform better that larger node sizes and 64 nodes seems to be the best of the three sizes used. The training with 32 and 64 node sizes took around 500 episodes while the training with the 128 node network took a little over 1000 episodes.
+The image above plots the scores of the the algorithm using the different neural network node sizes. The the shaded background consists of the individual scores for the agent using the different networks and the thicker solid line is the average. The plot seems to suggest that smaller node sizes perform better that larger node sizes and 64 nodes seems to be the best of the three sizes used. The training with 32 and 64 node sizes took just under 700 episodes while the training with the 128 node network took a little over 1000 episodes.
 
 ## Future Work
 
