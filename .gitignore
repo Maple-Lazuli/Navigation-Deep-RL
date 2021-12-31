@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# others
+
+deep-reinforcement-learning/
+.idea/
+*.log
+.ipynb_*
