@@ -1,6 +1,6 @@
 # Navigation-Deep-RL
 
-![image-20211231024749547](/home/ada/CodeProjects/Navigation-Deep-RL/images/unity-game1.png)
+![image-20211231024749547](images/unity-game1.png)
 
 ## Project Details 
 
@@ -58,4 +58,4 @@ python main.py
 
 Running main.py will start up the unity environment and begin training the model.
 
-![image-20211231034144582](/home/ada/CodeProjects/Navigation-Deep-RL/images/terminal_window.png)
+![image-20211231034144582](images/terminal_window.png)
